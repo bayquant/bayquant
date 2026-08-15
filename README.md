@@ -2,7 +2,7 @@
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
-║                    Quantitative Finance                       ║
-║                     Data • Analytics • Tools                  ║
+║                     Quantitative Finance                      ║
+║                   Data • Analytics • Tools                    ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
